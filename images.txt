@@ -3,3 +3,4 @@ postgres:16.3
 openeuler/openeuler:latest
 redis:7.2
 minio/minio:RELEASE.2024-07-04T14-25-45Z.fips
+minio/mc:latest

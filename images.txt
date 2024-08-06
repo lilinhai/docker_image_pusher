@@ -1,7 +1,7 @@
-nginx:1.25.5
-postgres:16.3
-openeuler/openeuler:latest
-redis:7.2
-minio/minio:RELEASE.2024-07-04T14-25-45Z.fips
-minio/mc:latest
-sonatype/nexus3:3.70.1-02
+# nginx:1.25.5
+#postgres:16.3
+#openeuler/openeuler:latest
+#redis:7.2
+#minio/minio:RELEASE.2024-07-04T14-25-45Z.fips
+#minio/mc:latest
+sonatype/nexus3:3.70.1-java17-alpine

@@ -5,4 +5,5 @@
 #minio/minio:RELEASE.2024-07-04T14-25-45Z.fips
 #minio/mc:latest
 #sonatype/nexus3:latest
-gitea/gitea:latest-rootless
+# gitea/gitea:latest-rootless
+elasticsearch:8.15.0

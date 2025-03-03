@@ -9,4 +9,5 @@ minio/minio:RELEASE.2024-12-18T13-15-44Z.fips
 # elasticsearch:8.15.0
 # docker.elastic.co/elasticsearch/elasticsearch:8.15.0
 # kibana:8.17.0
-ollama/ollama:0.5.13-rc6
+# ollama/ollama:0.5.13-rc6
+dyrnq/open-webui:git-ffeae78

@@ -11,4 +11,4 @@ minio/minio:RELEASE.2024-12-18T13-15-44Z.fips
 # kibana:8.17.0
 # ollama/ollama:0.5.13-rc6
 # dyrnq/open-webui:git-ffeae78
-luzhl/bt:latest
+btpanel/baota:latest

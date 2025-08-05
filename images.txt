@@ -2,7 +2,7 @@
 #postgres:16.3
 #openeuler/openeuler:latest
 # redis:8.0.3
-minio/minio:RELEASE.2025-06-13T11-33-47Z
+#minio/minio:RELEASE.2025-06-13T11-33-47Z
 #minio/mc:latest
 #sonatype/nexus3:latest
 # gitea/gitea:latest-rootless
@@ -12,3 +12,4 @@ minio/minio:RELEASE.2025-06-13T11-33-47Z
 # ollama/ollama:0.5.13-rc6
 # dyrnq/open-webui:git-ffeae78
 # btpanel/baota:latest
+node:24.5.0-alpine3.22

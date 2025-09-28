@@ -12,4 +12,5 @@
 # ollama/ollama:0.5.13-rc6
 # dyrnq/open-webui:git-ffeae78
 # btpanel/baota:latest
-node:24.5.0-alpine3.22
+# node:24.5.0-alpine3.22
+certbot/certbot:nightly

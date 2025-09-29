@@ -13,4 +13,5 @@
 # dyrnq/open-webui:git-ffeae78
 # btpanel/baota:latest
 # node:24.5.0-alpine3.22
-certbot/certbot:nightly
+# certbot/certbot:nightly
+nacos/nacos-server:v3.1.0

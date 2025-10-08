@@ -14,4 +14,5 @@
 # btpanel/baota:latest
 # node:24.5.0-alpine3.22
 # certbot/certbot:nightly
-nacos/nacos-server:v3.1.0
+# nacos/nacos-server:v3.1.0
+apache/james:3.9.0

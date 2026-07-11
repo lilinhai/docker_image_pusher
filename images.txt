@@ -16,4 +16,4 @@
 # certbot/certbot:nightly
 # nacos/nacos-server:v3.1.1
 # apache/james:postgres-3.9.0
-nginx:1.30-perl
+nginx:1.30-perl 

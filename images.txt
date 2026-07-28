@@ -1,5 +1,5 @@
 # nginx:1.25.5
-#postgres:16.3
+postgres:18.4
 #openeuler/openeuler:latest
 # redis:8.0.3
 #minio/minio:RELEASE.2025-06-13T11-33-47Z
@@ -16,4 +16,4 @@
 # certbot/certbot:nightly
 # nacos/nacos-server:v3.1.1
 # apache/james:postgres-3.9.0
-nginx:1.30-perl 
+# nginx:1.30-perl 

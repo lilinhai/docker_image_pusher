@@ -1,11 +1,11 @@
 # nginx:1.25.5
-postgres:18.4
+# postgres:18.4
 #openeuler/openeuler:latest
 # redis:8.0.3
 #minio/minio:RELEASE.2025-06-13T11-33-47Z
 #minio/mc:latest
 #sonatype/nexus3:latest
-# gitea/gitea:latest-rootless
+gitea/gitea:main-nightly-rootless
 # elasticsearch:8.15.0
 # docker.elastic.co/elasticsearch/elasticsearch:8.15.0
 # kibana:8.17.0

@@ -5,7 +5,7 @@
 #minio/minio:RELEASE.2025-06-13T11-33-47Z
 #minio/mc:latest
 #sonatype/nexus3:latest
-gitea/gitea:main-nightly
+# gitea/gitea:main-nightly
 # elasticsearch:8.15.0
 # docker.elastic.co/elasticsearch/elasticsearch:8.15.0
 # kibana:8.17.0
@@ -17,3 +17,4 @@ gitea/gitea:main-nightly
 # nacos/nacos-server:v3.1.1
 # apache/james:postgres-3.9.0
 # nginx:1.30-perl 
+apache/rocketmq:5.5.0
